@@ -4,9 +4,16 @@
   "main": "index.js",
   "dependencies": {
     "expo": "~56.0.9",
+    "expo-asset": "~56.0.16",
+    "expo-camera": "~56.0.7",
+    "expo-file-system": "~56.0.7",
+    "expo-image-manipulator": "~56.0.17",
     "expo-status-bar": "~56.0.4",
+    "jpeg-js": "^0.4.4",
     "react": "19.2.3",
-    "react-native": "0.85.3"
+    "react-native": "0.85.3",
+    "react-native-fast-tflite": "^3.0.1",
+    "react-native-vision-camera": "^5.0.11"
   },
   "publishConfig": {
     "executableFiles": [

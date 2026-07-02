@@ -1,0 +1,6 @@
+Cumulus
+Altocumulus
+Cirrus
+Clear_sky
+Stratocumulus
+Cumulonimbus

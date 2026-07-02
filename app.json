@@ -2,6 +2,15 @@
   "expo": {
     "name": "what-cloud-is-it",
     "slug": "what-cloud-is-it",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "plugins": [
+      "expo-asset"
+    ],
+    "assetBundlePatterns": [
+      "assets/models/*"
+    ],
+    "android": {
+      "package": "com.ricardozanini.whatcloudisit"
+    }
   }
 }
